@@ -40,7 +40,7 @@ export const ContactUs = () => {
           console.log(result.text);
           setFormdata({
             loading: false,
-            alertmessage: "SUCCESS! ,Thankyou for your messege",
+            alertmessage: "SUCCESS! ,Thank you for messaging Midecoder We will get back to you soon?",
             variant: "success",
             show: true,
           });

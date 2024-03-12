@@ -1,48 +1,43 @@
-const logotext = "JOHN";
+const logotext = "MIDECODER";
 const meta = {
     title: "John Doe",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Babarinde Ayomide",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I develop web app",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I love combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites and application. Technology leads, society follows.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "My name is Ayomide, i'm a full stack developer based in Lagos,NG. I have developed many types of front-end and back-end project well known Ecommerce, Blog, School-management website.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Developer of week",
+        where: "Boldlinks",
+        date: "2021",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+   
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Html",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Css",
+        value: 75,
+    },
+    {
+        name: "Bootstrap",
+        value: 45,
     },
     {
         name: "Javascript",
@@ -53,13 +48,25 @@ const skills = [{
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "Git",
+        value: 55,
+    },
+    {
+        name: "npm",
+        value: 60,
+    },
+    {
+        name: "Nodejs",
         value: 85,
+    },
+    {
+        name: "Mongodb",
+        value: 65,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
+        title: "Web Development",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
@@ -136,21 +143,21 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "ayomidebabarinde07@gmail.com",
+    YOUR_FONE: "(+234)9066435738",
+    description: "Active on all social media get in touch lets talk?. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_b4b2m13",
+    YOUR_TEMPLATE_ID: "template_3rpvucr",
+    YOUR_USER_ID: "WRzR24HI5iPcEk6oA",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Midecoder19",
+    facebook: "https://web.facebook.com/Midecoder1",
+    linkedin: "https://www.linkedin.com/in/midecoder-1aa96b251/",
+    twitter: "https://twitter.com/Ayomide78268640",
 };
 export {
     meta,
